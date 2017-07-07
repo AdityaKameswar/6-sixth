@@ -1,0 +1,32 @@
+*{margin:0;padding:0; text-decoration:none; outline:rgba(0,0,204,1) 0.07vw solid;}
+
+img { width:100%;}
+
+body{font-family:"Roboto Slab",Georgia,"Times New Roman",Times,serif;}
+
+div{overflow:hidden; }
+
+.container{width:100vw; height:auto; position:relative;}
+
+.header{width:90%; margin:0 auto; position:relative;}
+
+.head_section{float:left; width:98%; padding:.4vw 1%; margin:7.6vw auto; position:relative}
+
+.head_section .app {padding:1.5vw; font-size:1vw; margin:0 5%; outline:#000000 solid 0.15vw; position:static; top:25%; float:right;}
+
+.logo {float:left; width:25%; position:relative;}
+
+.contact_info{float:right; width:27%; position:relative;}
+
+.contact_info i{float:left; position:relative; color:#2185c5; font-size:3.7vw;}
+
+.contact_info span{float:left;font-size:1.2vw; position:static; padding:0; outline:none;}
+
+.contact_info a{font-size:2.3vw; float:right; color:#2185c5;position:relative;  letter-spacing:.15vw;}
+
+.contact_info a:hover{color:#3e4043; position:relative;}
+
+.aa{background:#2185c5;float:right; font-size:1.5vw; color:#FFFFFF; padding:.5vw;}
+.aa span {font-size:1.5em;}
+
+.main_body{ position:relative;}
